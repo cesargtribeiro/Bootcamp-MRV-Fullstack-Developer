@@ -1,0 +1,74 @@
+13/12/2021
+
+Estrutura basica
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+Textos e links
+
+<h1> até <h6>
+--Paragrafo
+<p></p>
+
+--Ancora
+<a>link</a>
+<a href="">LinkedIn<a/>
+<a href="mailto:cesarribeiro@outlook.com">E-mail<a/>
+<a target="_blank">Link</a>
+
+--Imagens
+<img>
+<img src="">
+<img alt="Foto de Cesar Ribeiro">
+
+--Listas
+sem ordem
+
+<ul>
+item 1
+item 2
+
+com ordem
+<ol>
+item 1
+item 3
+
+Item da lista
+<li>
+
+CSS
+
+Classe
+.header
+
+Id
+#header
+
+Box model
+margin, border, padding, content
+
+padding - entre a borda e o conteúdo
+
+border
+largura estilo e cor
+border: 3px solid blue;
+border-radius - arredondar as bordas
+
+list-style-type
+
+Dimensão e alinhamento
+Width
+Height
+
+Max-Width
+Max-Height
+
+margin
+
