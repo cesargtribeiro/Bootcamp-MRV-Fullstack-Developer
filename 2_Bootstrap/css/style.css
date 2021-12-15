@@ -1,0 +1,36 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(189, 183, 127);
+}
+
+#img-logo {
+    padding-left: 10px;
+}
+
+.quem-somos {
+    background-color: rgb(207, 213, 245);
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.parceiros {
+    background-color: rgb(250, 253, 250);
+    color: black;
+}
+
+.servicos {
+    background-color: rgb(207, 213, 245);
+    color: white;
+}
+
+.bd-fluid {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
