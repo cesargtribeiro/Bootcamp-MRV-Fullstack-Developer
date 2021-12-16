@@ -1,0 +1,25 @@
+/* JAVASCRIPT */
+LINGUAGEM INTERPRETADA
+BASEADA EM PROTÓTIPOS
+MULTIPARADIGMA
+WEB CLIENTE-SIDE
+PADRÃO ECMASCRIPTS
+
+VS CODE
+CTRL + / = COMENTA AS LINHAS SELECIONADAS
+
+--mostra informação no console
+console.log(return)
+
+--node console
+node arquivo
+
+--DOM
+DOCUMENT OBJECT MODEL
+
+--Frameworks
+VueJS
+Angular
+React
+JQuery
+
